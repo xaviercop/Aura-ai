@@ -1,5 +1,8 @@
 # Aura AI ✨
 #### Video Demo: <URL HERE>
+## 🌐 Live Demo
+https://aura-ai-swk7.onrender.com/
+
 #### Description:
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -9,13 +12,16 @@
 
 ## Screenshots
 
-![Aura AI Screenshot](screenshots/chat.png)
+### 💬 Chat Interface
+![Chat UI](screenshots/chat.png)
+
+### 🧠 Conversation Example
+![Conversation](screenshots/conversation.png)
 
 ## What is Aura AI?
 
 Aura AI is an AI-powered chatbot web application I built as my final project for CS50P — Harvard University's Introduction to Programming with Python. It runs in the browser, looks clean and modern, and lets you have real conversations with an AI assistant powered by Groq's LLaMA 3 model.
-
-I wanted to build something that actually felt like a real product rather than just a terminal script. So I combined Python, Flask, and Groq's free AI API to create a full web app with a dark sleek chat interface inspired by ChatGPT.
+The application provides a modern browser-based chat interface and integrates with Groq’s LLaMA 3 model to deliver fast, real-time AI responses.
 
 ## Features
 
@@ -64,7 +70,7 @@ I originally planned to use OpenAI's API but switched to Groq because it is comp
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/aura-ai.git
+git clone https://github.com/xaviercop/Aura-ai.git
 cd aura-ai
 ```
 
