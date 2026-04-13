@@ -13,10 +13,10 @@ https://aura-ai-swk7.onrender.com/
 ## Screenshots
 
 ### 💬 Chat Interface
-![Chat UI](screenshots/chat.png)
+![Chat UI](Screenshots/chat.png)
 
 ### 🧠 Conversation Example
-![Conversation](screenshots/conversation.png)
+![Conversation](Screenshots/conversation.png)
 
 ## What is Aura AI?
 
